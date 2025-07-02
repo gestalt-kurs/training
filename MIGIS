@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Мой путь в гештальт через MIGIS</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    h2 {
+      color: #34495e;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    blockquote {
+      font-style: italic;
+      color: #555;
+      border-left: 4px solid #ccc;
+      padding-left: 15px;
+      margin: 20px 0;
+    }
+    ul {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Путь трансформации: от себя к профессии</h1>
+  <h2>Гештальт-терапия как код жизни</h2>
+
+  <blockquote>
+    "Настоящие изменения начинаются с первого шага к себе."
+  </blockquote>
+
+  <p>
+    Однажды я сделал выбор, который изменил мой внутренний ландшафт. Я начал обучение в институте, где психология становится живым процессом, а не теорией — 
+    <a href="https://migis.ua/ru/programs" target="_blank">migis.ua</a>.
+  </p>
+
+  <p>
+    Я пришёл не за сертификатом, а за собой. И нашёл больше, чем ожидал:
+  </p>
+
+  <ul>
+    <li>Навык быть в контакте с собой и с другими</li>
+    <li>Способность чувствовать и говорить об этом — не как технику, а как образ жизни</li>
+    <li>Понимание, как работать с запросами, не теряя человеческого присутствия</li>
+  </ul>
+
+  <h2>Что изменилось:</h2>
+  <ul>
+    <li>Отношения с близкими стали глубже</li>
+    <li>Появилась внутренняя опора</li>
+    <li>Гештальт стал не просто профессией, а способом быть</li>
+  </ul>
+
+  <p>
+    Если вы тоже стоите на пороге перемен — возможно, это ваш путь. Начать его можно там же, где начался мой:
+    <a href="https://migis.ua/ru/programs" target="_blank">https://migis.ua/ru/programs</a>.
+  </p>
+
+</body>
+</html>
